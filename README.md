@@ -15,7 +15,7 @@ Then use the scripts provided in this repo.
 ### Animation Controller (Tkinter)
 If you open the animation controller, this GUI will pop up.
 Chapter changes the animations and the Display guide does nothing yet.
-Still, it delivers both values to the ARKit app! (You can modify it yourself!)
+Still, it delivers both values to the ARKit app! (You can modify it yourself!).
 '초기화' is the button for re-init.
 
 
