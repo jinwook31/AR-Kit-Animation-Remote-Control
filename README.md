@@ -3,8 +3,7 @@ Remotely control mobile displayed AR animation or object with REST API.
 
 
 ### System Overview
-(Img)
-
+![ex_screenshot](https://github.com/jinwook31/AR-Kit-Animation-Remote-Control/blob/main/img/overall.png)
 
 ### Setup
 Install and Set-up the Python REST API server on the Desktop and execute it in the background.
