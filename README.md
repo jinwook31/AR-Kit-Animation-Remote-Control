@@ -22,7 +22,7 @@ Still, it delivers both values to the ARKit app! (You can modify it yourself!).
 
 
 ### ARKit (Unity)
-Place the objects in the placable object lists.
+In the script SpawnObjectOnPlane.cs, Place the objects in the placable object lists.
 This number is the same as the number in Animation Controller.
 
 ![ex_screenshot](https://github.com/jinwook31/AR-Kit-Animation-Remote-Control/blob/main/img/inspector.png)
