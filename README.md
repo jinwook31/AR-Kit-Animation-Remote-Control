@@ -13,6 +13,9 @@ Install and Setup the Python REST API server on the Desktop and execute it in th
 ### Controller (Tkinter)
 If you open the animation controller, this GUI will pop up.
 
+![ex_screenshot](https://github.com/jinwook31/Unity-Experiment-Trial-Manager/blob/main/Images/prefab.JPG)
+
+
 In this project we used 7 @@ only.
 However, it sends both @ and @ to ARKit App.
 
