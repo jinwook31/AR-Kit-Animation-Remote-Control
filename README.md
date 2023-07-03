@@ -1,19 +1,25 @@
 # AR-Kit-Animation-Remote-Control
-Remotely control mobile displayed AR animation or object with REST API
+Remotely control mobile displayed AR animation or object with REST API.
 
 
 ### System Overview
-asdf
+Img
 
 
 ### Setup
-asdf
+Install and Setup the Python REST API server on the Desktop and execute it in the background.
 
 
 ### Controller (Tkinter)
-asdf
+If you open the animation controller, this GUI will pop up.
 
+In this project we used 7 @@ only.
+However, it sends both @ and @ to ARKit App.
+
+
+### ARKit (Unity)
+@@@
 
 ### Demo Video
-asdf
+link in process...
 
